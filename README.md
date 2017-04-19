@@ -1,9 +1,14 @@
-# api documentation for  [menubar (v5.2.3)](https://github.com/maxogden/menubar)  [![npm package](https://img.shields.io/npm/v/npmdoc-menubar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-menubar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-menubar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-menubar)
+# npmdoc-menubar
+
+#### api documentation for  [menubar (v5.2.3)](https://github.com/maxogden/menubar)  [![npm package](https://img.shields.io/npm/v/npmdoc-menubar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-menubar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-menubar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-menubar)
+
 #### high level way to create menubar desktop applications with electron
 
-[![NPM](https://nodei.co/npm/menubar.png?downloads=true)](https://www.npmjs.com/package/menubar)
+[![NPM](https://nodei.co/npm/menubar.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/menubar)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-menubar/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-menubar_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-menubar/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-menubar/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-menubar/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-menubar/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-menubar/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-menubar/build/screenCapture.npmPackageListing.svg)
 
@@ -50,25 +55,20 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "maxogden",
-            "email": "max@maxogden.com"
+            "name": "maxogden"
         },
         {
-            "name": "fritzy",
-            "email": "fritzy@netflint.net"
+            "name": "fritzy"
         },
         {
-            "name": "fabien-d",
-            "email": "fabien.doiron@gmail.com"
+            "name": "fabien-d"
         },
         {
-            "name": "jenslind",
-            "email": "jens@jensl.se"
+            "name": "jenslind"
         }
     ],
     "name": "menubar",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/maxogden/menubar.git"
@@ -79,16 +79,6 @@
     "version": "5.2.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module menubar](#apidoc.module.menubar)
-
-
-
-# <a name="apidoc.module.menubar"></a>[module menubar](#apidoc.module.menubar)
 
 
 
